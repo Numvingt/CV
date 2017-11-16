@@ -1,0 +1,47 @@
+html{
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+
+body{
+  background-color: #708090;
+  text-align: center;
+}
+
+p{
+  color: black;
+  font-style: italic;
+}
+
+h1{
+  color:black;
+}
+
+ul{
+  color: black;
+  text-align: justify;
+
+}
+#portrait{
+  width:200px;
+}
+
+.entete{
+ font-weight: bold;
+}
+
+.titre{
+  font-size: 20pt;
+  font-weight: bold;
+}
+
+.greybox{
+  background-color: rgba(220,220,220,0.5);
+}
+
+.content{
+  margin-left: 2%;
+  margin-right: 2%;
+  margin-top: 2%;
+  margin-bottom: 2%;
+}
