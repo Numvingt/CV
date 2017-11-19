@@ -1,51 +1,40 @@
-html{
-  margin-top: 5%;
-  margin-bottom: 5%;
-}
-
 body{
-    background-color: #404040;
   text-align: center;
-}
-
-p{
-  color: black;
-  font-style: italic;
-}
-
-h1{
-  color:black;
+    background-color: cadetblue;
 }
 
 ul{
-  color: black;
   text-align: justify;
-
 }
+
 #portrait{
-  width:200px;
+    width:200px;
+    margin: 15px 0px!important;
+    border-radius: 5px!important;
+    box-shadow: 0 0 2px rgba(0,0,0,0.3)!important;
 }
 
-.entete{
+#entete{
  font-weight: bold;
 }
 
-.titre{
+#titre{
   font-size: 20pt;
   font-weight: bold;
+    font-style: italic;
 }
 
-.greybox{
+#greybox{
 background: #A0A0A0!important;
 margin: 15px 0px!important;
 border-radius: 5px!important;
 box-shadow: 0 0 2px rgba(0,0,0,0.3)!important;
 }
 
-.content{
-width:95%!important;
+#content{
+    width:95%!important;
     margin-left: 5px;
-padding-top:5px!important;
+    padding-top:5px!important;
     padding-bottom: 5px;
-padding-left:5px!important;
+    padding-left:5px!important;
 }
